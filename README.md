@@ -10,3 +10,4 @@ I'm a developer passionate about building clean, efficient, and scalable applica
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GDB](https://img.shields.io/badge/GDB-333333?style=for-the-badge&logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=model-context-protocol&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-%23000000.svg?style=for-the-badge&logo=fastmcp&logoColor=white)
