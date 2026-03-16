@@ -11,3 +11,8 @@ I'm a developer passionate about building clean, efficient, and scalable applica
 ![GDB](https://img.shields.io/badge/GDB-333333?style=for-the-badge&logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge&logo=model-context-protocol&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-%23000000.svg?style=for-the-badge&logo=fastmcp&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-%23E17125.svg?style=for-the-badge&logo=metamask&logoColor=white)
