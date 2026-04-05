@@ -16,3 +16,7 @@ I'm a developer passionate about building clean, efficient, and scalable applica
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![MetaMask](https://img.shields.io/badge/MetaMask-%23E17125.svg?style=for-the-badge&logo=metamask&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23E0115F.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-%23323330.svg?style=for-the-badge&logo=anchor&logoColor=white)
+![Phantom](https://img.shields.io/badge/Phantom-AB9FF2?style=for-the-badge&logo=phantom&logoColor=white)
